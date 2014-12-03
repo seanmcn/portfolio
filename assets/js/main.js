@@ -6,6 +6,7 @@ $(document).ready(function() {
 			nav:false,
 			autoplay: true,
 			responsiveClass:true,
+			lazyLoad: true,
 			responsive:{
 				0:{
 					items:1,
