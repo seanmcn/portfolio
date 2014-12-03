@@ -33,6 +33,8 @@ require_once("data/projects.data.php");
 		<script type="text/javascript" src="assets/js/vendor/gist-embed/gist-embed.js"></script>
 		<!-- Google Fonts -->
 		<link href='http://fonts.googleapis.com/css?family=Oswald:400,700|Open+Sans:400,600' rel='stylesheet' type='text/css'>
+		<!-- Have a Mint Analytics -->
+		<script src="../mint/?js" type="text/javascript"></script>
 	</head>
 
 	<body class="leap-interactive" leap-disable-tap="true" leap-disable-hover="true">
