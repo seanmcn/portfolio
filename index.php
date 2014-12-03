@@ -64,20 +64,20 @@ require_once("data/projects.data.php");
 			foreach($projectArray as $projectType => $projectShelf) {
 				//Make sure there is at least one project.
 				if(count($projectShelf) >= 1) { ?>
-					<!-- <?= $projectType ;?> Projects -->
-					<h3><?= $projectType ;?> Projects <span class="badge"><?= count($projectShelf); ?></span></h3>
-					<div class="projectShelf owl-carousel" id="<?= $projectType ;?>">
+					<!-- <?php echo $projectType ;?> Projects -->
+					<h3><?php echo $projectType ;?> Projects <span class="badge"><?php echo count($projectShelf); ?></span></h3>
+					<div class="projectShelf owl-carousel" id="<?php echo $projectType ;?>">
 						
 						<?php foreach($projectShelf as $key => $project) { 
 							?>
 							<div class="project item">
-								<div class="image leap-interactive" data-toggle="modal" data-target="#<?=$key;?>_Modal">
-									<img src="assets/images/<?= $project['main_image']; ?>" alt="<?= $project['name']; ?>" class="thumbnail"/>
+								<div class="image leap-interactive" data-toggle="modal" data-target="#<?php echo$key;?>_Modal">
+									<img src="assets/images/<?php echo $project['main_image']; ?>" alt="<?php echo $project['name']; ?>" class="thumbnail"/>
 								</div>
-								<div class="panel panel-default panel-leap leap-interactive" leap-disable-tap="true" data-toggle="modal" data-target="#<?=$key;?>_Modal">
+								<div class="panel panel-default panel-leap leap-interactive" leap-disable-tap="true" data-toggle="modal" data-target="#<?php echo$key;?>_Modal">
 									<div class="panel-body">
-										<h4 class="name"><?= $project['name']; ?></h4>
-										<h5 class="year"><?= $project['year']; ?></h5>
+										<h4 class="name"><?php echo $project['name']; ?></h4>
+										<h5 class="year"><?php echo $project['year']; ?></h5>
 										<img src="assets/images/viewProject.gif" alt="View Project" class="viewProjectImage"/>
 									</div>
 								</div>
@@ -103,13 +103,13 @@ require_once("data/projects.data.php");
 
 		<?php foreach($projects as $key => $project) { ?>		
 			<!-- Modal -->
-			<div class="modal fade" id="<?=$key;?>_Modal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+			<div class="modal fade" id="<?php echo$key;?>_Modal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
 			  <div class="modal-dialog">
 			    <div class="modal-content">
 			      <div class="modal-header">
 			        <button type="button" class="close" data-dismiss="modal" aria-hidden="true" leap-attractor="true">&times;</button>
-			        <h4 class="modal-title" id="myModalLabel"><?= $project['name'];?>
-			        <?php if(!empty($project['url'])){ ?><a href="<?= $project['url'];?>" target="_blank"><span class="glyphicon glyphicon-link" style="margin-left:5px;"></span></a><?php } ?>
+			        <h4 class="modal-title" id="myModalLabel"><?php echo $project['name'];?>
+			        <?php if(!empty($project['url'])){ ?><a href="<?php echo $project['url'];?>" target="_blank"><span class="glyphicon glyphicon-link" style="margin-left:5px;"></span></a><?php } ?>
 			        </h4>
 			        
 			      </div>
@@ -118,14 +118,14 @@ require_once("data/projects.data.php");
 			      	<?php if (isset($project['image'])) { ?>
 					<div class="row">
 						<div class="col-md-12">
-				      		<img src="assets/images/<?=$project['image'];?>" alt="<?=$project['name'];?>" class="thumbnail">
+				      		<img src="assets/images/<?php echo$project['image'];?>" alt="<?php echo$project['name'];?>" class="thumbnail">
 				      	</div>
 				    </div>
 			      	<?php } ?>
 			        <div class="row">
 						<div class="col-md-8">
 							<h4>Description</h4>
-							<div class="description"><?= $project['description']; ?></div>
+							<div class="description"><?php echo $project['description']; ?></div>
 						</div>
 						<div class="col-md-4">
 							<h4>Technologies</h4>
@@ -134,7 +134,7 @@ require_once("data/projects.data.php");
 							foreach($project['technologies'] as $technology) { 
 								if($count%2 == 0) { $labelClass = "label-primary"; } else { $labelClass = "label-info";  }
 								?>
-								<span class="label <?=$labelClass;?>"><?= $technology;?></span>
+								<span class="label <?php echo$labelClass;?>"><?php echo $technology;?></span>
 							<?php $count ++; } ?>
 						</div>
 					</div><!-- end row-->
@@ -144,7 +144,7 @@ require_once("data/projects.data.php");
 							<h4>Achievements</h4>
 							<ul>
 							<?php foreach($project['achievements'] as $achievement) { ?> 
-								<li><?=$achievement;?></li>
+								<li><?php echo$achievement;?></li>
 							<?php } ?>
 							</ul>
 						</div>
@@ -155,7 +155,7 @@ require_once("data/projects.data.php");
 						<div class="col-md-12">
 							<h4>Code Snippets</h4>
 							 <?php foreach($project['code_snippets'] as $codeSnippet) { ?>
-							 <code data-gist-id="<?= $codeSnippet;?>"></code>
+							 <code data-gist-id="<?php echo $codeSnippet;?>"></code>
 							 <?php } ?>
 						</div>
 					</div><!-- end row-->
