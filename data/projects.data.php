@@ -1,5 +1,5 @@
 <?php
-
+//Because why have a database if you don't need one!
 $projects = array();
 
 /* 
