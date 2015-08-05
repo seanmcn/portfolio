@@ -38,12 +38,22 @@ $project = $projects[$id];
                     </ul>
                 </div>
             </div><!-- end row-->
+            <?php if (!empty($project['code_snippets'])) { ?>
+            <div class="row">
+                <div class="col-md-12">
+                    <h4 class="portfolioHeading">Code Snippets</h4>
+                    <?php foreach($project['code_snippets'] as $codeSnippet) { ?>
+                        <code data-gist-id="<?php echo $codeSnippet;?>"></code>
+                    <?php } ?>
+                </div>
+            </div><!-- end row-->
+            <?php } ?>
             <br />
             <a href="/portfolio" class="returnLink">
                 <img src="assets/images/goBack.gif" alt="Go back" class="goBackImage"/>
                 Return to Portfolio</a>
         </div>
     </div>
-
+<script type="text/javascript" src="assets/js/vendor/gist-embed/gist-embed.js"></script>
 <?php
 require_once( "_template/footer.php" );
