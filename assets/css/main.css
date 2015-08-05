@@ -1,0 +1,55 @@
+.projectItem {
+    width: 300px;
+    float: left;
+    background: white;
+    margin: 10px 10px;
+    cursor: pointer;
+}
+
+.viewProjectImage {
+    width: 50px;
+    height: 50px;
+}
+
+.projectName {
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    color: black;
+}
+
+.projectYear {
+    text-align: center;
+    font-style: italic;
+}
+
+.projectMetadata {
+    margin-bottom: 10px;
+}
+.portfolioHeading{
+    line-height: 44px;
+    font-size: 22px !important;
+    font-style: italic !important;
+    font-weight: bold !important;
+}
+.itemTitle {
+    text-align: center;
+    line-height: 66px;
+    font-size: 30px !important;
+    /*color: #00b9e8 !important;*/
+    font-style: italic !important;
+    font-weight: bold !important;
+}
+.itemBody {
+    padding: 20px 0;
+}
+.itemTech {
+    float: left;
+    margin: 2px 2px;
+}
+.itemAchievements{
+    margin-left: 20px;
+}
+.goBackImage {
+    width: 30px;
+}
