@@ -214,7 +214,7 @@
             <div class="row">
                 <div class="col-md-6 col-sm-6 col-xs-6">
                     <p>
-                        © 2015 Sean McNamara. All Rights Reserved. </p>
+                        &copy; 2015 Sean McNamara. All Rights Reserved. </p>
                 </div>
                 <div class="col-md-6 col-sm-6 col-xs-6">
                     <p class="text-right">
@@ -244,28 +244,6 @@
     })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
     ga('create', 'UA-59625547-1', 'auto');
     ga('send', 'pageview');                        </script>
-<script type="text/javascript">
-    // <![CDATA[
-    var disqus_shortname = 'seanmcn';
-    (function () {
-        var nodes = document.getElementsByTagName('span');
-        for (var i = 0, url; i < nodes.length; i++) {
-            if (nodes[i].className.indexOf('dsq-postid') != -1) {
-                nodes[i].parentNode.setAttribute('data-disqus-identifier', nodes[i].getAttribute('data-dsqidentifier'));
-                url = nodes[i].parentNode.href.split('#', 1);
-                if (url.length == 1) { url = url[0]; }
-                else { url = url[1]; }
-                nodes[i].parentNode.href = url + '#disqus_thread';
-            }
-        }
-        var s = document.createElement('script');
-        s.async = true;
-        s.type = 'text/javascript';
-        s.src = '//' + disqus_shortname + '.disqus.com/count.js';
-        (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
-    }());
-    // ]]>
-</script>
 <div id="su-footer-links" style="text-align: center;"></div>
 <!-- Lightbox Plus Colorbox v2.7/1.5.9 - 2013.01.24 - Message: 0-->
 <script type="text/javascript">

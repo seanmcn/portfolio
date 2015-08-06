@@ -7,17 +7,6 @@
     <link rel="profile" href="http://gmpg.org/xfn/11">
     <link rel="pingback" href="http://seanmcn.com/xmlrpc.php">
 
-
-    <style>
-        #custom-id {
-            margin: 0 auto;
-        }
-
-        .chart {
-            float: left;
-        }                        </style>
-
-
     <!-- SEO Ultimate (http://www.seodesignsolutions.com/wordpress-seo/) -->
     <meta name="description" content="Sean McNamara -  Programmer, Starcraft &amp; Poker Player. Game Developer Enthusiast">
     <meta property="og:type" content="blog">
@@ -279,12 +268,7 @@
                                     <li id="menu-item-864" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-864"><a
                                             href="http://seanmcn.com/contact/">Contact</a></li>
                                 </ul>
-                                <select id="tinynav1" class="tinynav tinynav1" style="width: 70%;">
-                                    <option value="http://seanmcn.com/" selected="selected">Home</option>
-                                    <option value="http://seanmcn.com/portfolio/">Portfolio</option>
-                                    <option value="http://seanmcn.com/about/">About</option>
-                                    <option value="http://seanmcn.com/contact/">Contact</option>
-                                </select></div>
+                            </div>
                         </div>
                     </nav>
                 </div>
@@ -296,8 +280,6 @@
 
     <div id="content" class="site-content">
 
-        <div class="featured-articles" id="owl-featured" data-featured-content="3" style="opacity: 0; visibility: visible;">
-        </div>
         <div id="primary" class="content-area">
             <main id="main" class="site-main" role="main">
 
