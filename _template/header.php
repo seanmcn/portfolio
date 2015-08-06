@@ -221,7 +221,7 @@
         <div class="row">
             <a class="skip-link screen-reader-text" href="#content">Skip to content</a>
 
-            <header id="masthead" class="site-header" role="banner" style="margin-bottom: 0px;">
+            <header id="masthead" class="site-header" role="banner">
                 <div class="header-social">
 
                     <h4>Follow me on</h4>
