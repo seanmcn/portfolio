@@ -273,7 +273,7 @@
     });
 </script>
 <script type="text/javascript"
-        src="http://seanmcn.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20"></script>
+        src="//seanmcn.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20"></script>
 <script type="text/javascript">
     /* <![CDATA[ */
     var _wpcf7 = {
@@ -283,25 +283,25 @@
     };
     /* ]]> */
 </script>
-<script type="text/javascript" src="http://seanmcn.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.1.1"></script>
-<script type="text/javascript" src="http://seanmcn.com/wp-content/themes/readolog/js/modernizr.js?ver=2.8.1"></script>
-<script type="text/javascript" src="http://seanmcn.com/wp-content/themes/readolog/js/bootstrap.min.js?ver=3.0.2"></script>
-<script type="text/javascript" src="http://seanmcn.com/wp-content/themes/readolog/js/jquery.flexslider.js?ver=20120518"></script>
-<script type="text/javascript" src="http://seanmcn.com/wp-content/themes/readolog/js/superfish.js?ver=20120518"></script>
-<script type="text/javascript" src="http://seanmcn.com/wp-content/themes/readolog/js/jquery.mousewheel-3.0.6.pack.js?ver=3.0.6"></script>
-<script type="text/javascript" src="http://seanmcn.com/wp-content/themes/readolog/js/jquery.fancybox.pack.js?ver=2.1.5"></script>
-<script type="text/javascript" src="http://seanmcn.com/wp-content/themes/readolog/js/owl.carousel.min.js?ver=2.1.5"></script>
-<script type="text/javascript" src="http://seanmcn.com/wp-content/themes/readolog/js/jquery.easy-pie-chart.js?ver=1.4.0"></script>
-<script type="text/javascript" src="http://seanmcn.com/wp-content/themes/readolog/js/tinynav.min.js?ver=1.2.0"></script>
-<script type="text/javascript" src="http://seanmcn.com/wp-content/themes/readolog/js/main.js?ver=4.2"></script>
-<script type="text/javascript" src="http://seanmcn.com/wp-content/themes/readolog/js/mediaelement-and-player.min.js?ver=3.1.7"></script>
+<script type="text/javascript" src="//seanmcn.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.1.1"></script>
+<script type="text/javascript" src="//seanmcn.com/wp-content/themes/readolog/js/modernizr.js?ver=2.8.1"></script>
+<script type="text/javascript" src="//seanmcn.com/wp-content/themes/readolog/js/bootstrap.min.js?ver=3.0.2"></script>
+<script type="text/javascript" src="//seanmcn.com/wp-content/themes/readolog/js/jquery.flexslider.js?ver=20120518"></script>
+<script type="text/javascript" src="//seanmcn.com/wp-content/themes/readolog/js/superfish.js?ver=20120518"></script>
+<script type="text/javascript" src="//seanmcn.com/wp-content/themes/readolog/js/jquery.mousewheel-3.0.6.pack.js?ver=3.0.6"></script>
+<script type="text/javascript" src="//seanmcn.com/wp-content/themes/readolog/js/jquery.fancybox.pack.js?ver=2.1.5"></script>
+<script type="text/javascript" src="//seanmcn.com/wp-content/themes/readolog/js/owl.carousel.min.js?ver=2.1.5"></script>
+<script type="text/javascript" src="//seanmcn.com/wp-content/themes/readolog/js/jquery.easy-pie-chart.js?ver=1.4.0"></script>
+<script type="text/javascript" src="//seanmcn.com/wp-content/themes/readolog/js/tinynav.min.js?ver=1.2.0"></script>
+<script type="text/javascript" src="//seanmcn.com/wp-content/themes/readolog/js/main.js?ver=4.2"></script>
+<script type="text/javascript" src="//seanmcn.com/wp-content/themes/readolog/js/mediaelement-and-player.min.js?ver=3.1.7"></script>
 <script type="text/javascript">
     /* <![CDATA[ */
-    var ajax_var = {"url": "http:\/\/seanmcn.com\/wp-admin\/admin-ajax.php", "nonce": "0520cc6453"};
+    var ajax_var = {"url": "\/\/seanmcn.com\/wp-admin\/admin-ajax.php", "nonce": "0520cc6453"};
     /* ]]> */
 </script>
-<script type="text/javascript" src="http://seanmcn.com/wp-content/themes/readolog/js/post-like.js?ver=1.0"></script>
-<script type="text/javascript" src="http://seanmcn.com/wp-content/plugins/lightbox-plus/js/jquery.colorbox.1.5.9.js?ver=1.5.9"></script>
+<script type="text/javascript" src="//seanmcn.com/wp-content/themes/readolog/js/post-like.js?ver=1.0"></script>
+<script type="text/javascript" src="//seanmcn.com/wp-content/plugins/lightbox-plus/js/jquery.colorbox.1.5.9.js?ver=1.5.9"></script>
 
 <div id="cboxOverlay" style="display: none;"></div>
 <div id="colorbox" class="" role="dialog" tabindex="-1" style="display: none;">

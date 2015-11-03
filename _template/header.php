@@ -4,23 +4,23 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
     <title>Sean McNamara | Programmer, Game Dev Hobbyist</title>
-    <link rel="profile" href="http://gmpg.org/xfn/11">
-    <link rel="pingback" href="http://seanmcn.com/xmlrpc.php">
+    <link rel="profile" href="//gmpg.org/xfn/11">
+    <link rel="pingback" href="//seanmcn.com/xmlrpc.php">
 
     <!-- SEO Ultimate (http://www.seodesignsolutions.com/wordpress-seo/) -->
     <meta name="description" content="Sean McNamara -  Programmer, Starcraft &amp; Poker Player. Game Developer Enthusiast">
     <meta property="og:type" content="blog">
     <meta property="og:title" content="Sean McNamara">
     <meta property="og:description" content="Programmer, Game Dev Hobbyist, Poker Player">
-    <meta property="og:url" content="http://seanmcn.com/">
+    <meta property="og:url" content="//seanmcn.com/">
     <meta property="og:site_name" content="Sean McNamara">
     <meta name="twitter:card" content="summary">
     <!-- /SEO Ultimate -->
 
-    <link rel="alternate" type="application/rss+xml" title="Sean McNamara » Feed" href="http://seanmcn.com/feed/">
-    <link rel="alternate" type="application/rss+xml" title="Sean McNamara » Comments Feed" href="http://seanmcn.com/comments/feed/">
+    <link rel="alternate" type="application/rss+xml" title="Sean McNamara » Feed" href="//seanmcn.com/feed/">
+    <link rel="alternate" type="application/rss+xml" title="Sean McNamara » Comments Feed" href="//seanmcn.com/comments/feed/">
     <script async="" src="//www.google-analytics.com/analytics.js"></script>
-    <script async="" type="text/javascript" src="https://pagead2.googlesyndication.com/pub-config/ca-pub-1807819622215086.js"></script>
+    <script async="" type="text/javascript" src="//pagead2.googlesyndication.com/pub-config/ca-pub-1807819622215086.js"></script>
     <script type="text/javascript">
         window._wpemojiSettings = {
             "baseUrl": "http:\/\/s.w.org\/images\/core\/emoji\/72x72\/",
@@ -45,7 +45,7 @@
             }, c.supports.simple && c.supports.flag || (f = c.source || {}, f.concatemoji ? e(f.concatemoji) : f.wpemoji && f.twemoji && (e(f.twemoji), e(f.wpemoji)))
         }(window, document, window._wpemojiSettings);
     </script>
-    <script src="http://seanmcn.com/wp-includes/js/wp-emoji-release.min.js?ver=4.2" type="text/javascript"></script>
+    <script src="//seanmcn.com/wp-includes/js/wp-emoji-release.min.js?ver=4.2" type="text/javascript"></script>
     <style type="text/css">
         img.wp-smiley,
         img.emoji {
@@ -61,36 +61,36 @@
         }
     </style>
     <link rel="stylesheet" href="assets/css/main.css" type="text/css" media="all">
-    <link rel="stylesheet" id="contact-form-7-css" href="http://seanmcn.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.1.1"
+    <link rel="stylesheet" id="contact-form-7-css" href="//seanmcn.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.1.1"
           type="text/css" media="all">
-    <link rel="stylesheet" id="wp-pagenavi-css" href="http://seanmcn.com/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70" type="text/css"
+    <link rel="stylesheet" id="wp-pagenavi-css" href="//seanmcn.com/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70" type="text/css"
           media="all">
-    <link rel="stylesheet" id="bootstrap-css" href="http://seanmcn.com/wp-content/themes/readolog/css/bootstrap.min.css?ver=4.2" type="text/css"
+    <link rel="stylesheet" id="bootstrap-css" href="//seanmcn.com/wp-content/themes/readolog/css/bootstrap.min.css?ver=4.2" type="text/css"
           media="all">
-    <link rel="stylesheet" id="flex-skin-css" href="http://seanmcn.com/wp-content/themes/readolog/css/flexslider.css?ver=4.2" type="text/css"
+    <link rel="stylesheet" id="flex-skin-css" href="//seanmcn.com/wp-content/themes/readolog/css/flexslider.css?ver=4.2" type="text/css"
           media="all">
-    <link rel="stylesheet" id="fontello-css" href="http://seanmcn.com/wp-content/themes/readolog/css/fontello.css?ver=4.2" type="text/css"
+    <link rel="stylesheet" id="fontello-css" href="//seanmcn.com/wp-content/themes/readolog/css/fontello.css?ver=4.2" type="text/css"
           media="all">
-    <link rel="stylesheet" id="fancy-css-css" href="http://seanmcn.com/wp-content/themes/readolog/css/jquery.fancybox.css?ver=4.2" type="text/css"
+    <link rel="stylesheet" id="fancy-css-css" href="//seanmcn.com/wp-content/themes/readolog/css/jquery.fancybox.css?ver=4.2" type="text/css"
           media="all">
-    <link rel="stylesheet" id="owl-css-css" href="http://seanmcn.com/wp-content/themes/readolog/css/owl.carousel.css?ver=4.2" type="text/css"
+    <link rel="stylesheet" id="owl-css-css" href="//seanmcn.com/wp-content/themes/readolog/css/owl.carousel.css?ver=4.2" type="text/css"
           media="all">
-    <link rel="stylesheet" id="readolog-style-css" href="http://seanmcn.com/wp-content/themes/readolog/style.css?ver=4.2" type="text/css" media="all">
+    <link rel="stylesheet" id="readolog-style-css" href="//seanmcn.com/wp-content/themes/readolog/style.css?ver=4.2" type="text/css" media="all">
     <link rel="stylesheet" id="readolog-custom-style-css"
-          href="http://seanmcn.com/wp-content/themes/readolog/reduxFramework/readolog/readolog-custom.css?ver=4.2" type="text/css" media="all">
-    <link rel="stylesheet" id="media-elem-css" href="http://seanmcn.com/wp-content/themes/readolog/css/skin/mediaelementplayer.css?ver=4.2"
+          href="//seanmcn.com/wp-content/themes/readolog/reduxFramework/readolog/readolog-custom.css?ver=4.2" type="text/css" media="all">
+    <link rel="stylesheet" id="media-elem-css" href="//seanmcn.com/wp-content/themes/readolog/css/skin/mediaelementplayer.css?ver=4.2"
           type="text/css" media="all">
     <link rel="stylesheet" id="redux-google-fonts-css"
-          href="http://fonts.googleapis.com/css?family=Playfair+Regular%7CRoboto+Condensed&amp;ver=1425794366" type="text/css" media="all">
-    <link rel="stylesheet" id="wp-stats-css" href="http://seanmcn.com/wp-content/plugins/wp-stats/stats-css.css?ver=2.50" type="text/css" media="all">
-    <link rel="stylesheet" id="lightboxStyle-css" href="http://seanmcn.com/wp-content/plugins/lightbox-plus/css/shadowed/colorbox.css?ver=2.7"
+          href="//fonts.googleapis.com/css?family=Playfair+Regular%7CRoboto+Condensed&amp;ver=1425794366" type="text/css" media="all">
+    <link rel="stylesheet" id="wp-stats-css" href="//seanmcn.com/wp-content/plugins/wp-stats/stats-css.css?ver=2.50" type="text/css" media="all">
+    <link rel="stylesheet" id="lightboxStyle-css" href="//seanmcn.com/wp-content/plugins/lightbox-plus/css/shadowed/colorbox.css?ver=2.7"
           type="text/css" media="screen">
-    <script type="text/javascript" src="http://seanmcn.com/wp-includes/js/jquery/jquery.js?ver=1.11.2"></script>
-    <script type="text/javascript" src="http://seanmcn.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
-    <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://seanmcn.com/xmlrpc.php?rsd">
-    <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://seanmcn.com/wp-includes/wlwmanifest.xml">
+    <script type="text/javascript" src="//seanmcn.com/wp-includes/js/jquery/jquery.js?ver=1.11.2"></script>
+    <script type="text/javascript" src="//seanmcn.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
+    <link rel="EditURI" type="application/rsd+xml" title="RSD" href="//seanmcn.com/xmlrpc.php?rsd">
+    <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="//seanmcn.com/wp-includes/wlwmanifest.xml">
     <meta name="generator" content="WordPress 4.2">
-    <link rel="stylesheet" type="text/css" href="http://seanmcn.com/wp-content/plugins/wp-code-highlight/css/wp-code-highlight.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="//seanmcn.com/wp-content/plugins/wp-code-highlight/css/wp-code-highlight.css" media="screen">
     <style>
         .gist table {
             margin-bottom: 0 !important;
@@ -192,7 +192,7 @@
         }
     </style>
     <script async=""
-            src="http://seanmcn.disqus.com/count-data.js?1=679%20http%3A%2F%2Fseanmcn.com%2F%3Fp%3D679&amp;1=685%20http%3A%2F%2Fseanmcn.com%2F%3Fp%3D685&amp;1=706%20http%3A%2F%2Fseanmcn.com%2F%3Fp%3D706&amp;1=724%20http%3A%2F%2Fseanmcn.com%2F%3Fp%3D724&amp;1=772%20http%3A%2F%2Fseanmcn.com%2F%3Fp%3D772&amp;1=846%20http%3A%2F%2Fseanmcn.com%2F%3Fp%3D846&amp;1=847%20http%3A%2F%2Fseanmcn.com%2F%3Fp%3D847&amp;1=867%20http%3A%2F%2Fseanmcn.com%2F%3Fp%3D867&amp;1=875%20http%3A%2F%2Fseanmcn.com%2F%3Fp%3D875&amp;1=975%20http%3A%2F%2Fseanmcn.com%2F%3Fp%3D975"></script>
+            src="//seanmcn.disqus.com/count-data.js?1=679%20http%3A%2F%2Fseanmcn.com%2F%3Fp%3D679&amp;1=685%20http%3A%2F%2Fseanmcn.com%2F%3Fp%3D685&amp;1=706%20http%3A%2F%2Fseanmcn.com%2F%3Fp%3D706&amp;1=724%20http%3A%2F%2Fseanmcn.com%2F%3Fp%3D724&amp;1=772%20http%3A%2F%2Fseanmcn.com%2F%3Fp%3D772&amp;1=846%20http%3A%2F%2Fseanmcn.com%2F%3Fp%3D846&amp;1=847%20http%3A%2F%2Fseanmcn.com%2F%3Fp%3D847&amp;1=867%20http%3A%2F%2Fseanmcn.com%2F%3Fp%3D867&amp;1=875%20http%3A%2F%2Fseanmcn.com%2F%3Fp%3D875&amp;1=975%20http%3A%2F%2Fseanmcn.com%2F%3Fp%3D975"></script>
 </head>
 
 <body class="home blog">
@@ -203,7 +203,7 @@
         <a href="javascript:;" class="icon-cancel"></a>
     </div>
     <div class="search-form-holder">
-        <form role="search" method="get" id="searchform" class="search-form" action="http://seanmcn.com/">
+        <form role="search" method="get" id="searchform" class="search-form" action="//seanmcn.com/">
             <label>
                 <span class="screen-reader-text" for="s">Search for:</span>
                 <input class="search-field" type="text" value="" placeholder="Type to search..." name="s" id="s">
@@ -228,14 +228,14 @@
 
                     <ul class="hedaer-social-list">
                         <li>
-                            <a href="https://twitter.com/mrseanmcn" target="_blank" class="icon-twitter" title="Twitter" alt="Twitter"></a>
+                            <a href="//twitter.com/mrseanmcn" target="_blank" class="icon-twitter" title="Twitter" alt="Twitter"></a>
                         </li>
                         <li>
-                            <a href="https://plus.google.com/100763310010641212393/" target="_blank" class="icon-gplus" title="Google+"
+                            <a href="//plus.google.com/100763310010641212393/" target="_blank" class="icon-gplus" title="Google+"
                                alt="Google+"></a>
                         </li>
                         <li>
-                            <a href="http://ca.linkedin.com/in/mrseanmcn/" target="_blank" class="icon-linkedin" title="Linkedin" alt="Linkedin"></a>
+                            <a href="//ca.linkedin.com/in/mrseanmcn/" target="_blank" class="icon-linkedin" title="Linkedin" alt="Linkedin"></a>
                         </li>
                     </ul>
                 </div>
@@ -247,7 +247,7 @@
 
 
                 <div class="site-branding">
-                    <h1 class="site-title"><a href="http://seanmcn.com/" rel="home">Sean McNamara</a></h1>
+                    <h1 class="site-title"><a href="//seanmcn.com/" rel="home">Sean McNamara</a></h1>
 
                     <h4 class="site-description">Programmer, Game Dev Hobbyist, Poker Player</h4>
                 </div>
@@ -260,13 +260,13 @@
                                 <ul id="primary-nav" class="menu sf-js-enabled sf-arrows l_tinynav1">
                                     <li id="menu-item-862"
                                         class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-862">
-                                        <a href="http://seanmcn.com/">Home</a></li>
+                                        <a href="//seanmcn.com/">Home</a></li>
                                     <li id="menu-item-865" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-865"><a
-                                            href="http://www.seanmcn.com/portfolio/">Portfolio</a></li>
+                                            href="//www.seanmcn.com/portfolio/">Portfolio</a></li>
                                     <li id="menu-item-863" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-863"><a
-                                            href="http://seanmcn.com/about/">About</a></li>
+                                            href="//seanmcn.com/about/">About</a></li>
                                     <li id="menu-item-864" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-864"><a
-                                            href="http://seanmcn.com/contact/">Contact</a></li>
+                                            href="//seanmcn.com/contact/">Contact</a></li>
                                 </ul>
                             </div>
                         </div>
