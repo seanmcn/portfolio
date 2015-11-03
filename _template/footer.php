@@ -1,4 +1,4 @@
-</div>
+/</div>
 <div class="col-md-4 col-sm-4">
 
     <div class="sidebar-classic-holder">
@@ -18,10 +18,8 @@
                 <aside id="execphp-3" class="widget widget_execphp"><h3 class="widget-title">Github</h3>
 
                     <div class="execphpwidget">
-                        <iframe id="ghcard-seanmcn-1" frameborder="0" scrolling="0" allowtransparency="true"
-                                src="//lab.lepture.com/github-cards/cards/medium.html?user=seanmcn&amp;identity=ghcard-seanmcn-1"
-                                width="400" height="317"></iframe>
-                        <script src="//lab.lepture.com/github-cards/widget.js"></script>
+                        <div class="github-card" data-user="seanmcn"></div>
+                        <script src="https://cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
                     </div>
                 </aside>
                 <aside id="categories-6" class="widget widget_categories"><h3 class="widget-title">Categories</h3><label
