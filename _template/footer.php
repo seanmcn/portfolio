@@ -8,20 +8,20 @@
                 <aside id="about-me-widget-3" class="widget about-me"><h3 class="widget-title">Sean McNamara</h3>
 
                     <div class="photo-holder">
-                        <img src="http://seanmcn.com/wp-content/uploads/2014/10/meme.jpg" alt="About me">
+                        <img src="//seanmcn.com/wp-content/uploads/2014/10/meme.jpg" alt="About me">
                     </div>
                     <p>
                         I work in web development in Vancouver and in my free time enjoy playing poker and creating video
-                        games. Find out more about me over <a href="http://www.seanmcn.com/about">here</a></p>
+                        games. Find out more about me over <a href="//www.seanmcn.com/about">here</a></p>
 
                 </aside>
                 <aside id="execphp-3" class="widget widget_execphp"><h3 class="widget-title">Github</h3>
 
                     <div class="execphpwidget">
                         <iframe id="ghcard-seanmcn-1" frameborder="0" scrolling="0" allowtransparency="true"
-                                src="http://lab.lepture.com/github-cards/cards/medium.html?user=seanmcn&amp;identity=ghcard-seanmcn-1"
+                                src="//lab.lepture.com/github-cards/cards/medium.html?user=seanmcn&amp;identity=ghcard-seanmcn-1"
                                 width="400" height="317"></iframe>
-                        <script src="http://lab.lepture.com/github-cards/widget.js"></script>
+                        <script src="//lab.lepture.com/github-cards/widget.js"></script>
                     </div>
                 </aside>
                 <aside id="categories-6" class="widget widget_categories"><h3 class="widget-title">Categories</h3><label
@@ -62,7 +62,7 @@
 
                             function onCatChange() {
                                 if (dropdown.options[dropdown.selectedIndex].value > 0) {
-                                    location.href = "http://seanmcn.com/?cat=" + dropdown.options[dropdown.selectedIndex].value;
+                                    location.href = "//seanmcn.com/?cat=" + dropdown.options[dropdown.selectedIndex].value;
                                 }
                             }
 
@@ -74,103 +74,103 @@
                 </aside>
                 <aside id="tag_cloud-3" class="widget widget_tag_cloud"><h3 class="widget-title">Tags</h3>
 
-                    <div class="tagcloud"><a href="http://seanmcn.com/co-uk/" class="tag-link-23" title="1 topic"
+                    <div class="tagcloud"><a href="//seanmcn.com/co-uk/" class="tag-link-23" title="1 topic"
                                              style="font-size: 8pt;">.co.uk</a>
-                        <a href="http://seanmcn.com/deb/" class="tag-link-24" title="3 topics"
+                        <a href="//seanmcn.com/deb/" class="tag-link-24" title="3 topics"
                            style="font-size: 12.941176470588pt;">.deb</a>
-                        <a href="http://seanmcn.com/cheat/" class="tag-link-36" title="2 topics"
+                        <a href="//seanmcn.com/cheat/" class="tag-link-36" title="2 topics"
                            style="font-size: 10.964705882353pt;">cheat</a>
-                        <a href="http://seanmcn.com/chrome/" class="tag-link-37" title="2 topics"
+                        <a href="//seanmcn.com/chrome/" class="tag-link-37" title="2 topics"
                            style="font-size: 10.964705882353pt;">chrome</a>
-                        <a href="http://seanmcn.com/code/" class="tag-link-38" title="3 topics"
+                        <a href="//seanmcn.com/code/" class="tag-link-38" title="3 topics"
                            style="font-size: 12.941176470588pt;">code</a>
-                        <a href="http://seanmcn.com/design/" class="tag-link-47" title="2 topics"
+                        <a href="//seanmcn.com/design/" class="tag-link-47" title="2 topics"
                            style="font-size: 10.964705882353pt;">design</a>
-                        <a href="http://seanmcn.com/downloading/" class="tag-link-52" title="2 topics"
+                        <a href="//seanmcn.com/downloading/" class="tag-link-52" title="2 topics"
                            style="font-size: 10.964705882353pt;">downloading</a>
-                        <a href="http://seanmcn.com/e3/" class="tag-link-174" title="2 topics"
+                        <a href="//seanmcn.com/e3/" class="tag-link-174" title="2 topics"
                            style="font-size: 10.964705882353pt;">e3</a>
-                        <a href="http://seanmcn.com/eircom/" class="tag-link-54" title="2 topics"
+                        <a href="//seanmcn.com/eircom/" class="tag-link-54" title="2 topics"
                            style="font-size: 10.964705882353pt;">eircom</a>
-                        <a href="http://seanmcn.com/firefox/" class="tag-link-62" title="2 topics"
+                        <a href="//seanmcn.com/firefox/" class="tag-link-62" title="2 topics"
                            style="font-size: 10.964705882353pt;">firefox</a>
-                        <a href="http://seanmcn.com/food-for-thought/" class="tag-link-211" title="2 topics"
+                        <a href="//seanmcn.com/food-for-thought/" class="tag-link-211" title="2 topics"
                            style="font-size: 10.964705882353pt;">food for thought</a>
-                        <a href="http://seanmcn.com/game/" class="tag-link-65" title="7 topics"
+                        <a href="//seanmcn.com/game/" class="tag-link-65" title="7 topics"
                            style="font-size: 17.882352941176pt;">game</a>
-                        <a href="http://seanmcn.com/google/" class="tag-link-7" title="5 topics"
+                        <a href="//seanmcn.com/google/" class="tag-link-7" title="5 topics"
                            style="font-size: 15.905882352941pt;">Google</a>
-                        <a href="http://seanmcn.com/guide/" class="tag-link-69" title="2 topics"
+                        <a href="//seanmcn.com/guide/" class="tag-link-69" title="2 topics"
                            style="font-size: 10.964705882353pt;">guide</a>
-                        <a href="http://seanmcn.com/halo/" class="tag-link-70" title="2 topics"
+                        <a href="//seanmcn.com/halo/" class="tag-link-70" title="2 topics"
                            style="font-size: 10.964705882353pt;">halo</a>
-                        <a href="http://seanmcn.com/howto/" class="tag-link-76" title="8 topics"
+                        <a href="//seanmcn.com/howto/" class="tag-link-76" title="8 topics"
                            style="font-size: 18.705882352941pt;">howto</a>
-                        <a href="http://seanmcn.com/install/" class="tag-link-79" title="2 topics"
+                        <a href="//seanmcn.com/install/" class="tag-link-79" title="2 topics"
                            style="font-size: 10.964705882353pt;">install</a>
-                        <a href="http://seanmcn.com/jaunty/" class="tag-link-85" title="2 topics"
+                        <a href="//seanmcn.com/jaunty/" class="tag-link-85" title="2 topics"
                            style="font-size: 10.964705882353pt;">jaunty</a>
-                        <a href="http://seanmcn.com/java/" class="tag-link-10" title="2 topics"
+                        <a href="//seanmcn.com/java/" class="tag-link-10" title="2 topics"
                            style="font-size: 10.964705882353pt;">Java</a>
-                        <a href="http://seanmcn.com/kilkenny/" class="tag-link-88" title="2 topics"
+                        <a href="//seanmcn.com/kilkenny/" class="tag-link-88" title="2 topics"
                            style="font-size: 10.964705882353pt;">kilkenny</a>
-                        <a href="http://seanmcn.com/learn/" class="tag-link-90" title="5 topics"
+                        <a href="//seanmcn.com/learn/" class="tag-link-90" title="5 topics"
                            style="font-size: 15.905882352941pt;">learn</a>
-                        <a href="http://seanmcn.com/lesson/" class="tag-link-92" title="4 topics"
+                        <a href="//seanmcn.com/lesson/" class="tag-link-92" title="4 topics"
                            style="font-size: 14.588235294118pt;">lesson</a>
-                        <a href="http://seanmcn.com/linux/" class="tag-link-14" title="13 topics" style="font-size: 22pt;">Linux</a>
-                        <a href="http://seanmcn.com/modern/" class="tag-link-99" title="2 topics"
+                        <a href="//seanmcn.com/linux/" class="tag-link-14" title="13 topics" style="font-size: 22pt;">Linux</a>
+                        <a href="//seanmcn.com/modern/" class="tag-link-99" title="2 topics"
                            style="font-size: 10.964705882353pt;">modern</a>
-                        <a href="http://seanmcn.com/movies/" class="tag-link-15" title="3 topics"
+                        <a href="//seanmcn.com/movies/" class="tag-link-15" title="3 topics"
                            style="font-size: 12.941176470588pt;">movies</a>
-                        <a href="http://seanmcn.com/mpaa/" class="tag-link-102" title="2 topics"
+                        <a href="//seanmcn.com/mpaa/" class="tag-link-102" title="2 topics"
                            style="font-size: 10.964705882353pt;">MPAA</a>
-                        <a href="http://seanmcn.com/music/" class="tag-link-103" title="3 topics"
+                        <a href="//seanmcn.com/music/" class="tag-link-103" title="3 topics"
                            style="font-size: 12.941176470588pt;">music</a>
-                        <a href="http://seanmcn.com/of/" class="tag-link-109" title="2 topics"
+                        <a href="//seanmcn.com/of/" class="tag-link-109" title="2 topics"
                            style="font-size: 10.964705882353pt;">of</a>
-                        <a href="http://seanmcn.com/php/" class="tag-link-18" title="9 topics"
+                        <a href="//seanmcn.com/php/" class="tag-link-18" title="9 topics"
                            style="font-size: 19.529411764706pt;">PHP</a>
-                        <a href="http://seanmcn.com/plugin/" class="tag-link-116" title="3 topics"
+                        <a href="//seanmcn.com/plugin/" class="tag-link-116" title="3 topics"
                            style="font-size: 12.941176470588pt;">plugin</a>
-                        <a href="http://seanmcn.com/programming/" class="tag-link-19" title="13 topics"
+                        <a href="//seanmcn.com/programming/" class="tag-link-19" title="13 topics"
                            style="font-size: 22pt;">Programming</a>
-                        <a href="http://seanmcn.com/reach/" class="tag-link-124" title="2 topics"
+                        <a href="//seanmcn.com/reach/" class="tag-link-124" title="2 topics"
                            style="font-size: 10.964705882353pt;">reach</a>
-                        <a href="http://seanmcn.com/riaa/" class="tag-link-130" title="2 topics"
+                        <a href="//seanmcn.com/riaa/" class="tag-link-130" title="2 topics"
                            style="font-size: 10.964705882353pt;">RIAA</a>
-                        <a href="http://seanmcn.com/security-2/" class="tag-link-201" title="2 topics"
+                        <a href="//seanmcn.com/security-2/" class="tag-link-201" title="2 topics"
                            style="font-size: 10.964705882353pt;">security</a>
-                        <a href="http://seanmcn.com/sheet/" class="tag-link-135" title="2 topics"
+                        <a href="//seanmcn.com/sheet/" class="tag-link-135" title="2 topics"
                            style="font-size: 10.964705882353pt;">sheet</a>
-                        <a href="http://seanmcn.com/snippet/" class="tag-link-262" title="2 topics"
+                        <a href="//seanmcn.com/snippet/" class="tag-link-262" title="2 topics"
                            style="font-size: 10.964705882353pt;">snippet</a>
-                        <a href="http://seanmcn.com/software/" class="tag-link-21" title="9 topics"
+                        <a href="//seanmcn.com/software/" class="tag-link-21" title="9 topics"
                            style="font-size: 19.529411764706pt;">Software</a>
-                        <a href="http://seanmcn.com/ubuntu/" class="tag-link-22" title="11 topics"
+                        <a href="//seanmcn.com/ubuntu/" class="tag-link-22" title="11 topics"
                            style="font-size: 20.847058823529pt;">Ubuntu</a>
-                        <a href="http://seanmcn.com/url/" class="tag-link-150" title="2 topics"
+                        <a href="//seanmcn.com/url/" class="tag-link-150" title="2 topics"
                            style="font-size: 10.964705882353pt;">url</a>
-                        <a href="http://seanmcn.com/video/" class="tag-link-151" title="2 topics"
+                        <a href="//seanmcn.com/video/" class="tag-link-151" title="2 topics"
                            style="font-size: 10.964705882353pt;">video</a>
-                        <a href="http://seanmcn.com/virus/" class="tag-link-152" title="2 topics"
+                        <a href="//seanmcn.com/virus/" class="tag-link-152" title="2 topics"
                            style="font-size: 10.964705882353pt;">virus</a>
-                        <a href="http://seanmcn.com/web/" class="tag-link-159" title="5 topics"
+                        <a href="//seanmcn.com/web/" class="tag-link-159" title="5 topics"
                            style="font-size: 15.905882352941pt;">web</a>
-                        <a href="http://seanmcn.com/windows/" class="tag-link-162" title="4 topics"
+                        <a href="//seanmcn.com/windows/" class="tag-link-162" title="4 topics"
                            style="font-size: 14.588235294118pt;">windows</a>
-                        <a href="http://seanmcn.com/wordpress/" class="tag-link-165" title="2 topics"
+                        <a href="//seanmcn.com/wordpress/" class="tag-link-165" title="2 topics"
                            style="font-size: 10.964705882353pt;">wordpress</a>
-                        <a href="http://seanmcn.com/xbox/" class="tag-link-166" title="5 topics"
+                        <a href="//seanmcn.com/xbox/" class="tag-link-166" title="5 topics"
                            style="font-size: 15.905882352941pt;">xbox</a></div>
                 </aside>
                 <aside id="linkcat-2" class="widget widget_links"><h3 class="widget-title">Blogroll</h3>
                     <ul class="xoxo blogroll">
-                        <li><a href="http://www.mulley.net">Damien Mulley</a></li>
-                        <li><a href="http://www.kenmc.com">Ken McGuire</a></li>
+                        <li><a href="//www.mulley.net">Damien Mulley</a></li>
+                        <li><a href="//www.kenmc.com">Ken McGuire</a></li>
                         <li><a href="https://philsturgeon.uk/" title="occasionally gets chased by bears" target="_blank">Phil
                                 Sturgeon</a></li>
-                        <li><a href="http://rogier.pennink.eu/" rel="friend" title="Programmer and games enthusiast">Rogier
+                        <li><a href="//rogier.pennink.eu/" rel="friend" title="Programmer and games enthusiast">Rogier
                                 Pennink</a></li>
 
                     </ul>
@@ -202,7 +202,7 @@
 <script type="text/javascript">
     window.onload = function () {prettyPrint();};
 </script>
-<script type="text/javascript" src="http://seanmcn.com/wp-content/plugins/wp-code-highlight/js/wp-code-highlight.js"></script>
+<script type="text/javascript" src="//seanmcn.com/wp-content/plugins/wp-code-highlight/js/wp-code-highlight.js"></script>
 <!--WP Code Highlight_end-->
 </div>
 <div class="footer-holder">
@@ -277,7 +277,7 @@
 <script type="text/javascript">
     /* <![CDATA[ */
     var _wpcf7 = {
-        "loaderUrl": "http:\/\/seanmcn.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif",
+        "loaderUrl": "\/\/seanmcn.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif",
         "sending": "Sending ...",
         "cached": "1"
     };

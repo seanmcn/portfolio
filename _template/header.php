@@ -25,7 +25,7 @@
         window._wpemojiSettings = {
             "baseUrl": "http:\/\/s.w.org\/images\/core\/emoji\/72x72\/",
             "ext": ".png",
-            "source": {"concatemoji": "http:\/\/seanmcn.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2"}
+            "source": {"concatemoji": "\/\/seanmcn.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2"}
         };
         !function (a, b, c) {
             function d(a) {
