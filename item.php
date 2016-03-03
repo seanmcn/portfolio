@@ -11,7 +11,7 @@ $project = $projects[$id];
                     <h1 class="itemTitle"><?= $project['name']; ?></h1>
                 </div>
                 <div class="col-md-12">
-                    <img src="assets/images/<?= $project['main_image'] ?>" alt="<?= $project['name'] ?>" class="thumbnail">
+                    <img src="assets/images/<?= $project['image'] ?>" alt="<?= $project['name'] ?>" class="thumbnail">
                 </div>
             </div>
             <div class="row">
