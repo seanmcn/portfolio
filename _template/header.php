@@ -59,7 +59,7 @@
         }(window, document, window._wpemojiSettings);
         /*]]>*/</script>
     <style type="text/css">img.wp-smiley, img.emoji { display: inline !important; border: none !important; box-shadow: none !important; height: 1em !important; width: 1em !important; margin: 0 .07em !important; vertical-align: -0.1em !important; background: none !important; padding: 0 !important }</style>
-    <link
+    <link rel="stylesheet" href="assets/css/main.css" type="text/css" media="all">
         rel='stylesheet' id='contact-form-7-css' href='https://seanmcn.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=7b21e62a1e8beafbcca5c2fe491e5bae' type='text/css' media='all'/>
     <link
         rel='stylesheet' id='wp-pagenavi-css' href='https://seanmcn.com/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=7b21e62a1e8beafbcca5c2fe491e5bae' type='text/css' media='all'/>
