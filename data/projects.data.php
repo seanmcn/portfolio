@@ -2,6 +2,38 @@
 //Because why have a database if you don't need one!
 $projects = array();
 
+/*
+ * UBC Open Collections
+ */
+$project = array();
+$achievements = array();
+
+$achievements[] = "Worked as part of a team to create and launch Open Collections.";
+$achievements[] = "Used Symfony components, ElasticSearch API and PostgreSQL to create a front-end to our ElasticSearch instance.";
+$achievements[] = "Created RSS feeds for searches and collections.";
+$achievements[] = "Created extensive documentation for the Open Collections API.";
+$achievements[] = "Spoke at Code4Lib BC on how to perform full text analysis using the Open Collections API";
+$achievements[] = "Helped debug AngularJS problems, and our Grunt build process";
+$achievements[] = "Solved problems we encountered with mass downloader's";
+$achievements[] = "Created administration tools to manage aggregates and collections, embargoed items and statistics";
+$achievements[] = "Managed bugs and issues via JIRA, used GIT for version control.";
+$achievements[] = "Managed builds and deployments using Gitlab CI.";
+
+$project['name']          = "UBC Open Collections";
+$project['type']          = array( "PHP", "JS");
+$project['description']   = "A unified platform for UBC digital resources that delivers UBC-created and UBC-maintained digital resources to enhance user experience and to offer open research data services.";
+$project['achievements']  = $achievements;
+$project['url']           = "http://open.library.ubc.ca";
+$project['github']        = "";
+$project['technologies']  = array( "PHP", "ELASTICSEARCH", "ANGULARJS", "JQUERY", "SYMFONY", "POSTGRES", "HTML", "CSS");
+$project['code_snippets'] = array();
+$project['keywords']      = array( "UBC", "PHP", "JAVASCRIPT", "CANADA" );
+$project['image']         = "projects/ubc/1.jpg";
+$project['main_image']    = "projects/ubc/main.jpg";
+$project['year']          = "2015";
+$projects[]               = $project;
+
+
 /* 
  * Motbot 
  */
