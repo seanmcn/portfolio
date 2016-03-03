@@ -18,7 +18,9 @@ $project = $projects[$id];
                 <div class="col-md-8">
                     <h4 class="portfolioHeading">Description</h4>
                     <div class="description"><?= $project['description']; ?></div>
-                    <
+                    <?php if(!empty($project['url'])) { ?>
+                        <a href="<?php echo $project['url']?>">View Online</a>
+                    <?php } ?>
                 </div>
                 <div class="col-md-4">
                     <h4 class="portfolioHeading">Technologies</h4>
@@ -26,11 +28,6 @@ $project = $projects[$id];
                         $labelType = $key % 2 == 0 ? 'primary' : 'info';
                         echo "<span class='itemTech label label-$labelType'>$technology</span>";
                     }?>
-
-                    <?php if(!empty($project['url'])) { ?>
-                        <hr/>
-                        <a href="<?php echo $project['url']?>">Project Link</a>
-                    <?php } ?>
                 </div>
             </div><!-- end row-->
             <br />
