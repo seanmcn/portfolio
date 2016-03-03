@@ -19,7 +19,7 @@ $project = $projects[$id];
                     <h4 class="portfolioHeading">Description</h4>
                     <div class="description"><?= $project['description']; ?></div>
                     <?php if(!empty($project['url'])) { ?>
-                        <a href="<?php echo $project['url']?>">View Online</a>
+                        <a href="<?php echo $project['url']?>" target="_blank">View Online</a>
                     <?php } ?>
                 </div>
                 <div class="col-md-4">
