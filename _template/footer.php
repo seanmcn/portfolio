@@ -8,8 +8,8 @@
                     <div class="photo-holder">
                         <img src="https://seanmcn.com/wp-content/uploads/2016/01/11659495_10154004008197586_562905344314367867_n-1-e1452757136136.jpg" alt="About me">
                     </div>
-                    <p> I currently work for the University of British Columbia as a Programmer Analyst. You can find out more about me
-                        <a href="https://www.seanmcn.com/about">over here</a></p></aside>
+                    <p>I'm a programmer currently working at Kobas. You can read more about me <a href="https://www.seanmcn.com/about">over here</a>. 
+The views expressed on this blog are my own and do not reflect those of my employer or its clients.</p></aside>
                 <aside id="execphp-3" class="widget widget_execphp"><h3 class="widget-title">Github</h3>
 
                     <div class="execphpwidget">
