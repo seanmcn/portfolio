@@ -8,10 +8,8 @@
 			</div>
 				<p>I'm a programmer currently working at Kobas.  You can read more about me over <a href="https://seanmcn.com/about/">here</a>. </p> 
 				<p><em>The views expressed on this blog are my own and do not reflect those of my employer or its clients.</em>		</p>
-
 		</aside>
-	            </div>
-        </div>
+       </div>
     </div>
 </div>
 </div>
