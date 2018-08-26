@@ -84,8 +84,6 @@
 		rel='stylesheet' id='redux-google-fonts-css' href='https://fonts.googleapis.com/css?family=Playfair+Regular%7CRoboto+Condensed&#038;ver=7b21e62a1e8beafbcca5c2fe491e5bae' type='text/css' media='all'/>
 	<link
 		rel='stylesheet' id='wp-stats-css' href='https://seanmcn.com/wp-content/plugins/wp-stats/stats-css.css?ver=7b21e62a1e8beafbcca5c2fe491e5bae' type='text/css' media='all'/>
-	<link
-		rel='stylesheet' id='lightboxStyle-css' href='https://seanmcn.com/wp-content/plugins/lightbox-plus/css/shadowed/colorbox.min.css?ver=7b21e62a1e8beafbcca5c2fe491e5bae' type='text/css' media='screen'/>
 	<script>if (document.location.protocol != "https:") {document.location = document.URL.replace(/^http:/i, "https:");}</script>
 	<script type='text/javascript' src='https://seanmcn.com/wp-includes/js/jquery/jquery.js?ver=7b21e62a1e8beafbcca5c2fe491e5bae'></script>
 	<script type='text/javascript' src='https://seanmcn.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=7b21e62a1e8beafbcca5c2fe491e5bae'></script>
@@ -95,8 +93,6 @@
 		rel="EditURI" type="application/rsd+xml" title="RSD" href="https://seanmcn.com/xmlrpc.php?rsd"/>
 	<link
 		rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://seanmcn.com/wp-includes/wlwmanifest.xml"/>
-	<link
-		rel="stylesheet" type="text/css" href="https://seanmcn.com/wp-content/plugins/wp-code-highlight/css/wp-code-highlight.css" media="screen"/>
 	<style>.gist
 		table { margin-bottom: 0 !important }
 
@@ -112,24 +108,7 @@
 		span { word-wrap: normal !important }</style>
 	<style type="text/css">.recentcomments
 		a { display: inline !important; padding: 0 !important; margin: 0 !important }</style>
-	<script type="text/javascript">/*<![CDATA[*/
-		(function (url) {
-			if (/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)) {return;}
-			var addEvent = function (evt, handler) {if (window.addEventListener) {document.addEventListener(evt, handler, false);} else if (window.attachEvent) {document.attachEvent('on' + evt, handler);}};
-			var removeEvent = function (evt, handler) {if (window.removeEventListener) {document.removeEventListener(evt, handler, false);} else if (window.detachEvent) {document.detachEvent('on' + evt, handler);}};
-			var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
-			var logHuman = function () {
-				var wfscr = document.createElement('script');
-				wfscr.type = 'text/javascript';
-				wfscr.async = true;
-				wfscr.src = url + '&r=' + Math.random();
-				(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(wfscr);
-				for (var i = 0; i < evts.length; i++) {removeEvent(evts[i], logHuman);}
-			};
-			for (var i = 0; i < evts.length; i++) {addEvent(evts[i], logHuman);}
-		})('//seanmcn.com/?wordfence_logHuman=1&hid=C94AA2046B52975F482039A621F1251B');
-		/*]]>*/</script>
-	<style type="text/css" title="dynamic-css" class="options-output">textarea:focus, input:focus { outline-color: #00b9e8 }
+		<style type="text/css" title="dynamic-css" class="options-output">textarea:focus, input:focus { outline-color: #00b9e8 }
 
 		.main-navigation li:hover { border-color: #00b9e8 }
 

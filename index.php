@@ -1,6 +1,9 @@
 <?php
 require_once( "data/projects.data.php" );
 require_once( "_template/header.php" );
+/* Include wordpress */
+#define('WP_USE_THEMES', false);
+#require('../wp-blog-header.php');
 ?>
     <div id="content" class="content-holder">
         <?php
